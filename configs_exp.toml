@@ -1,5 +1,5 @@
 [logger]
 folder = "logs"
 file = "projectName.log" # TODO: change it
-level = "DEBUG"
+level = "INFO"
 backup = 7
